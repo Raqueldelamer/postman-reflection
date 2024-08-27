@@ -7,7 +7,7 @@ pokemon apis, etc
 
 <h2>Fennekin Pokemon</h2><img src="https://github.com/user-attachments/assets/a4dd0afd-83ce-4be6-bc0f-393279dd8143">
 
-<a href="https://pokeapi.co/api/v2/pokemon/fennekin" target="_blank">Fennekin</a>abilities: blaze & magician
+<a href="https://pokeapi.co/api/v2/pokemon/fennekin" target="_blank">Fennekin</a> abilities: blaze & magician
 <img src="https://github.com/user-attachments/assets/0abdceb5-515d-4c38-89dd-00310776d2ae"><br>
 
 <h2>Primarina Pokemon</h2><img src="https://github.com/user-attachments/assets/0e5fa860-fd64-4a9e-b4d3-fc408fee1367">
