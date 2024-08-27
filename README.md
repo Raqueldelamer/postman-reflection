@@ -1,5 +1,5 @@
 # postman-reflection
-pokemons, apis, etc
+pokemon apis, etc
 <h2>Meowth Pokemon</h2><img src="https://github.com/user-attachments/assets/e3ae8be9-f59b-42f3-b52f-3c633f27d1aa">
 
 <a href="https://pokeapi.co/api/v2/pokemon/meowth" target="_blank">Meowth</a>
