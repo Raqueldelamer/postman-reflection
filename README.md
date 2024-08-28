@@ -1,6 +1,9 @@
 # postman-reflection
 pokemon apis, etc
 <h1>Weatherbit APIs</h1>
+<a href="http://api.weatherbit.io/v2.0/current?key=65ca10a786a2470d8fa011aa4ef356c2&city=New Orleans" target="_blank">New Orleans,LA</a> temp:37.5C* = 99.5F*
+<img src="https://github.com/user-attachments/assets/2ddb5fc7-eb17-4b09-8cb0-8bab4c251f45">
+
 <a href="http://api.weatherbit.io/v2.0/current?key=65ca10a786a2470d8fa011aa4ef356c2&city=Marseille" target="_blank">Marseille,FR</a> temp:23.3C* = 73.9F*
 <img src="https://github.com/user-attachments/assets/899b3215-b9fe-411f-b3a6-800091a0f886">
 
