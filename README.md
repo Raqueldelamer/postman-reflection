@@ -1,5 +1,9 @@
 # postman-reflection
 pokemon apis, etc
+<h1>Weatherbit APIs</h1>
+<a href="http://api.weatherbit.io/v2.0/current?key=65ca10a786a2470d8fa011aa4ef356c2&city=Marseille" target="_blank">Marseille,FR</a> temp:23.3C* = 73.9F*
+<img src="https://github.com/user-attachments/assets/899b3215-b9fe-411f-b3a6-800091a0f886">
+
 <h2>Meowth Pokemon</h2><img src="https://github.com/user-attachments/assets/e3ae8be9-f59b-42f3-b52f-3c633f27d1aa">
 
 <a href="https://pokeapi.co/api/v2/pokemon/meowth" target="_blank">Meowth</a> abilities: pickup & technician
