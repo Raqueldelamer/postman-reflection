@@ -1,0 +1,53 @@
+{
+    "count": 1,
+    "data": [
+        {
+            "app_temp": 25.6,
+            "aqi": 21,
+            "city_name": "New Orleans",
+            "clouds": 94,
+            "country_code": "US",
+            "datetime": "2024-09-06:22",
+            "dewpt": 23.4,
+            "dhi": 67,
+            "dni": 593,
+            "elev_angle": 15.62,
+            "ghi": 219,
+            "gust": null,
+            "h_angle": 75,
+            "lat": 29.95465,
+            "lon": -90.07507,
+            "ob_time": "2024-09-06 22:40",
+            "pod": "d",
+            "precip": 0,
+            "pres": 1010.6,
+            "rh": 93,
+            "slp": 1011,
+            "snow": 0,
+            "solar_rad": 59.3,
+            "sources": [
+                "1815W",
+                "radar",
+                "satellite"
+            ],
+            "state_code": "LA",
+            "station": "1815W",
+            "sunrise": "11:40",
+            "sunset": "00:16",
+            "temp": 24.6,
+            "timezone": "America/Chicago",
+            "ts": 1725662400,
+            "uv": 1,
+            "vis": 4,
+            "weather": {
+                "icon": "c04d",
+                "description": "Overcast clouds",
+                "code": 804
+            },
+            "wind_cdir": "NE",
+            "wind_cdir_full": "northeast",
+            "wind_dir": 44,
+            "wind_spd": 0.9
+        }
+    ]
+}
