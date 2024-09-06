@@ -8,7 +8,9 @@ pokemon apis, etc
 <a href="http://api.weatherbit.io/v2.0/current?key=65ca10a786a2470d8fa011aa4ef356c2&city=New Orleans" target="_blank">New Orleans,LA</a> temp:37.5C* = 99.5F*, timezone: "America/Chicago"
 In New Orleans I got an Air Quality Index (aqi) of 21  with an app temp of 37.5 C* = 99.5 F*. The request gained a 200 ok with a speed of 514ms and a file size of 1.19 kb. Along with the above data, the api also provides the latitude and longitude of the area requested, (lat": 29.95465, "lon": -90.07507)
 <br>
+<br>
 Setting up Parameters: It is very important to understand how to set them and why they are needed. Pulling a request for the weather requires some detail to help the API narrow down where you would like to search. That data parameter can also include a temperature measurement such as Fahrenheit.
+<br>
 <br>
 Obtaining a Key is key! Entering a private key to a variable in the set environment and accessing that key when setting up the request for a parameters, requires you to have the data to enter based upon the documents.
 <br>
